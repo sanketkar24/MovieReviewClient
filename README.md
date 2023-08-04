@@ -1,3 +1,7 @@
+# Getting Started with the Project
+
+Please find the attached pdf to find details and screenshots regarding the project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
